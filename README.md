@@ -10,17 +10,16 @@ Latest Version: 6.9 | Last Updated: never
 2) [Latest Forge for 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 3) [ChatTriggers Version 2.0+](https://github.com/ChatTriggers/ChatTriggers/releases/)
 ### Instalation: 
-1) Go to the [Releases Tab](https://github.com/iTqxic07/NotEnoughRacism/releases) <img src="https://i.imgur.com/27vzJQL.png">
-2) Install the Release
-3) Extract the file into `.minecraft/config/ChatTriggers/modules` 
-4) Run `/ct load` in Minecraft
-5) If the module does not work, DM `iTqxic#5961` on Discord with the contents of `/ct console js` 
+1) Install the Release
+2) Extract the file into `.minecraft/config/ChatTriggers/modules` 
+3) Run `/ct load` in Minecraft
+4) If the module does not work, cry
 </details>
 
 
 ## Information and Features
 #### The command to open the GUI is `/jer` 
-##### NotEnoughRacism is a Hypixel Skyblock [ChatTrigger](https://chattriggers.com) It is a "QoL" or Cheat module 
+##### JustEnoughRacism is a Hypixel Skyblock [ChatTrigger](https://chattriggers.com) It is a "QoL" or Cheat module 
 <details>
   <summary>Features</summary>
   
