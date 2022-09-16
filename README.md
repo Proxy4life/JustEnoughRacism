@@ -20,5 +20,5 @@ Latest Version: 6.9 | Last Updated: never
 ##### JustEnoughRacism is a Hypixel Skyblock mod It is "QoL"
 <details>
   <summary>Features</summary>
-Insane Packet Dupe 
+Packet Dupe 
 
