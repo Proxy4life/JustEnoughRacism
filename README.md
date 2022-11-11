@@ -21,4 +21,10 @@ Latest Version: 6.9 | Last Updated: never
 <details>
   <summary>Features</summary>
 Packet Dupe 
-
+The ability to kys
+Life getter
+10 block vclip/hclip/3dclip w watchdog bypass
+Ah sniper
+Bz flipper
+Inf range block breaker
+Inf range gemstone nuker
